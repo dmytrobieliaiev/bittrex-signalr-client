@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aloysius-pgast/bittrex-signalr-client"
+    "url": "https://github.com/dmytrobieliaiev/bittrex-signalr-client"
   },
   "dependencies": {
-    "big.js": "^5.0.3",
+    "big.js": "5.1.1",
     "cloudscraper": "^1.4.1",
     "debug": "^3.1.0",
     "lodash": "^4.17.4",
